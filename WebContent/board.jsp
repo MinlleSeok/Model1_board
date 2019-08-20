@@ -1,4 +1,3 @@
-
 <%@page import="com.board.bean.Board"%>
 <%@page import="java.util.ArrayList"%>
 <%@page import="java.sql.ResultSet"%>
